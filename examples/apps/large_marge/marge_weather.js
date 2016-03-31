@@ -20,7 +20,7 @@ MargeWeather.prototype.postWeatherRequest = function(timeFrame) {
 
 // TODO: Provide more responses
 MargeWeather.prototype.getAffirmation = function() {
-  return 'An excellent choice.';
+  return 'Be sure and tell em, Large Marge sent ya.';
 };
 
 module.exports = MargeWeather;
