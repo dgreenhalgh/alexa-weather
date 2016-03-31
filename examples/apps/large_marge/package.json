@@ -1,0 +1,16 @@
+{
+  "name": "large_marge",
+  "version": "1.0.0",
+  "description": "An Alexa skill for figuring out what to wear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Greenhalgh",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "lodash": "^4.6.1",
+    "request-promise": "^2.0.1"
+  }
+}
